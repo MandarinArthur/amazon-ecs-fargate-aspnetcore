@@ -1,11 +1,12 @@
-# Reference Architecture
+(非官方翻譯 https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore)
+# 參考架構
 
 ![](/images/aspnetcorefargate.jpg)
 
 
 
-# Development environment
-The development environment needs to have the following :-
+# 開發環境
+開發環境需要以下的工具 :-
 
 
 a)Mac os 10.X or higher
@@ -20,8 +21,8 @@ e)aws ecs cli
 
 
 
-# Create ASP.NET core mvc application
-Let's leverage the terminal in the mac for creating, building and publishing the ASP.NET core mvc core application. Navigate to the directory where the entire set up needs to be created and issue the following commands in the terminal
+# 建立 ASP.NET Core MVC 應用程式
+使用 MAC 下的終端機建立、建置、發布這個 ASP.NET Core MVC 應用程式；查看整個用來建立的目錄，並且執行以下命令。
 
 mkdir mymvcweb
 
